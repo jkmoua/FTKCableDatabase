@@ -1,0 +1,5 @@
+16:46:42 03/08/2017 | ROB 0x111750 is now connected to DF 2-5 through cable 3040528 and IM Lane 12.  | User: jmoua | Comment: typo in spreadsheet
+16:48:52 03/08/2017 | ROB 0x140093 is now connected to DF 2-4 through cable 3040676 and IM Lane 8. DF 1-8, IM lane 8 now has no cable/ROB assignment. | User: jmoua | Comment: 2-4 recabling for enhanced slice
+16:49:16 03/08/2017 | ROB 0x130109 is now connected to DF 2-4 through cable 3040450 and IM Lane 10. DF 2-3, IM lane 2 now has no cable/ROB assignment. | User: jmoua | Comment: 2-4 recabling for enhanced slice
+16:49:41 03/08/2017 | ROB 0x111752 is now connected to DF 2-4 through cable 3040514 and IM Lane 12. DF 1-7, IM lane 14 now has no cable/ROB assignment. | User: jmoua | Comment: 2-4 recabling for enhanced slice
+16:50:01 03/08/2017 | ROB 0x112561 is now connected to DF 2-4 through cable 3040449 and IM Lane 14. DF 1-7, IM lane 2 now has no cable/ROB assignment. | User: jmoua | Comment: 2-4 recabling for enhanced slice
